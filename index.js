@@ -2057,4 +2057,4 @@ client.on('messageCreate', async message => {
 
 ///token
 
-client.login("MTEzMzM3MzE3MTEyNzU2NjM1Nw.GsYOCY.PNO-Kmkqn1NR7H0pDXfStpWssNakZQlAeuSVnY")
+client.login
